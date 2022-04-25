@@ -1,0 +1,23 @@
+tortilla, burrito
+rice, burrito
+cheese, burrito
+tomato, burrito
+onion, burrito, stir fry
+lettuce, burrito
+beans, burrito
+peanutbutter, peanutbutter on toast
+bread, peanutbutter on toast, jam on toast
+jam, jam on toast
+marinara sauce, marinara pasta
+pasta, marinara pasta, pesto pasta
+pesto, pesto pasta
+cereal, cereal
+milk, cereal, oatmeal, pancakes
+mushroom, stir fry
+broccoli, stir fry
+bell pepper, stir fry
+tofu, stir fry
+oats, oatmeal
+flour, pancakes
+butter, pancakes
+sugar, pancakes
